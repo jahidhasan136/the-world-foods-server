@@ -5,7 +5,8 @@
         "years_of_experience": 10,
         "likes": 500,
         "racipe": 2,
-        "picture": "https://example.com/chef/jasmine-lee.jpg"
+        "picture": "https://i.ibb.co/K0NyRQx/download.jpg",
+        "bio": "Martin Yan is a Chinese-American chef, restaurateur, and television host. He is best known for his TV show 'Yan Can Cook' and his cookbooks. Yan has a degree in food science and technology, and has been awarded honorary doctorate degrees from several universities. He is also the founder of the Yan Can International Cooking School."
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "years_of_experience": 5,
         "likes": 250,
         "racipe": 2,
-        "picture": "https://example.com/chef/samuel-kim.jpg"
+        "picture": "https://i.ibb.co/R9bjqtM/IMG-1404-788x1024.jpg",
+        "bio": "Susur Lee is a Chinese-Canadian chef and restaurateur. He is the chef and owner of several restaurants in Toronto, New York, and Singapore, and has received numerous awards and accolades for his cuisine. Lee is known for his fusion cooking, which combines traditional Chinese flavors with Western ingredients and techniques."
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "years_of_experience": 15,
         "likes": 750,
         "racipe": 2,
-        "picture": "https://example.com/chef/alexis-rodriguez.jpg"
+        "picture": "https://i.ibb.co/FbRZ9gF/ken71008-blk-2.webp",
+        "bio": "Ming Tsai is a Chinese-American restaurateur, television personality, and cookbook author. He is the chef and owner of Blue Dragon, a restaurant in Boston, and has appeared on several TV shows, including 'Simply Ming' and 'Iron Chef America'. Tsai is a graduate of Yale University and Le Cordon Bleu in Paris."
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "years_of_experience": 8,
         "likes": 400,
         "racipe": 2,
-        "picture": "https://example.com/chef/emily-chen.jpg"
+        "picture": "https://i.ibb.co/Y0Zq1Sb/8a929a-fb20e4463c194820bcf9c18d81926f5c-mv2-d-3848-4810-s-4-2.jpg",
+        "bio": "Ching He Huang is a Chinese-British chef, television presenter, and author. She is best known for her TV shows 'Chinese Food Made Easy' and 'Exploring China', and her cookbooks. Huang has a degree in economics and worked in the financial industry before pursuing a career in food. She is also a regular contributor to various publications and has won several awards for her cuisine."
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "years_of_experience": 12,
         "likes": 600,
         "racipe": 2,
-        "picture": "https://example.com/chef/gabriel-hernandez.jpg"
+        "picture": "https://i.ibb.co/8gnYf9T/ming-tsai-1.jpg",
+        "bio": "Martin Yan is a Chinese-American chef, restaurateur, and television host. He is best known for his TV show 'Yan Can Cook' and his cookbooks. Yan has a degree in food science and technology, and has been awarded honorary doctorate degrees from several universities. He is also the founder of the Yan Can International Cooking School."
     },
     {
         "id": 6,
@@ -45,6 +50,7 @@
         "years_of_experience": 3,
         "likes": 100,
         "racipe": 2,
-        "picture": "https://example.com/chef/mia-thompson.jpg"
+        "picture": "https://i.ibb.co/cgKdsth/hf03-041819.jpg",
+        "bio": "Kian Lam Kho is a Chinese-American chef, cookbook author, and culinary educator. He is the founder of Red Cook, an online platform that explores traditional Chinese cooking and culture. Kho has published a cookbook titled 'Phoenix Claws and Jade Trees: Essential Techniques of Authentic Chinese Cooking', which has won several awards. He also teaches Chinese cooking classes in New York City."
     }
 ]
