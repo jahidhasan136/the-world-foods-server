@@ -1,44 +1,50 @@
 [
     {
         "id": 1,
-        "name": "Jasmine Lee",
+        "name": "Martin Yan",
         "years_of_experience": 10,
         "likes": 500,
+        "racipe": 2,
         "picture": "https://example.com/chef/jasmine-lee.jpg"
     },
     {
         "id": 2,
-        "name": "Samuel Kim",
+        "name": "Ken Hom",
         "years_of_experience": 5,
         "likes": 250,
+        "racipe": 2,
         "picture": "https://example.com/chef/samuel-kim.jpg"
     },
     {
         "id": 3,
-        "name": "Alexis Rodriguez",
+        "name": "Ming Tsai",
         "years_of_experience": 15,
         "likes": 750,
+        "racipe": 2,
         "picture": "https://example.com/chef/alexis-rodriguez.jpg"
     },
     {
         "id": 4,
-        "name": "Emily Chen",
+        "name": "Ching He Huang",
         "years_of_experience": 8,
         "likes": 400,
+        "racipe": 2,
         "picture": "https://example.com/chef/emily-chen.jpg"
     },
     {
         "id": 5,
-        "name": "Gabriel Hernandez",
+        "name": "Martin Yan",
         "years_of_experience": 12,
         "likes": 600,
+        "racipe": 2,
         "picture": "https://example.com/chef/gabriel-hernandez.jpg"
     },
     {
         "id": 6,
-        "name": "Mia Thompson",
+        "name": "Kian Lam Kho",
         "years_of_experience": 3,
         "likes": 100,
+        "racipe": 2,
         "picture": "https://example.com/chef/mia-thompson.jpg"
     }
 ]
