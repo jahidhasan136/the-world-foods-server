@@ -5,8 +5,59 @@
         "years_of_experience": 10,
         "likes": 500,
         "racipe": 2,
-        "picture": "https://i.ibb.co/K0NyRQx/download.jpg",
-        "bio": "Martin Yan is a Chinese-American chef, restaurateur, and television host. He is best known for his TV show 'Yan Can Cook' and his cookbooks. Yan has a degree in food science and technology, and has been awarded honorary doctorate degrees from several universities. He is also the founder of the Yan Can International Cooking School."
+        "picture": "https://i.ibb.co/q7xsKLK/img2-0000-img1.jpg",
+        "bio": "Martin Yan is a Chinese-American chef, restaurateur, and television host. He is best known for his TV show 'Yan Can Cook' and his cookbooks. Yan has a degree in food science and technology, and has been awarded honorary doctorate degrees from several universities. He is also the founder of the Yan Can International Cooking School.",
+        "racipe_list": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken breast, cut into small cubes",
+                    "1/2 cup peanuts",
+                    "3-4 dried red chilies",
+                    "3-4 cloves of garlic, minced",
+                    "1 inch ginger, grated",
+                    "1 tbsp cornstarch",
+                    "1 tbsp soy sauce",
+                    "1 tbsp rice vinegar",
+                    "1 tbsp hoisin sauce",
+                    "1 tbsp vegetable oil",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "In a bowl, mix together the cornstarch, soy sauce, rice vinegar, hoisin sauce, and a pinch of salt and pepper.",
+                    "Add the chicken to the bowl and stir to coat evenly.",
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic, ginger, and dried chilies, and stir-fry for about 30 seconds until fragrant.",
+                    "Add the chicken and stir-fry for 3-4 minutes, until the chicken is cooked through.",
+                    "Add the peanuts and stir-fry for another minute.",
+                    "Serve hot with steamed rice."
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Egg Fried Rice",
+                "ingredients": [
+                    "2 cups cooked rice, cooled",
+                    "2 eggs, beaten",
+                    "1/2 cup frozen peas and carrots, thawed",
+                    "1/2 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "2 tbsp vegetable oil",
+                    "2 tbsp soy sauce",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the onion and garlic, and stir-fry for about 30 seconds until fragrant.",
+                    "Add the beaten eggs and scramble until fully cooked.",
+                    "Add the thawed peas and carrots, and stir-fry for another minute.",
+                    "Add the cooked rice and soy sauce, and stir-fry until everything is evenly mixed and heated through.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot as a side dish or main course."
+                ],
+                "rating": 4
+            }
+        ]
     },
     {
         "id": 2,
@@ -14,8 +65,59 @@
         "years_of_experience": 5,
         "likes": 250,
         "racipe": 2,
-        "picture": "https://i.ibb.co/R9bjqtM/IMG-1404-788x1024.jpg",
-        "bio": "Susur Lee is a Chinese-Canadian chef and restaurateur. He is the chef and owner of several restaurants in Toronto, New York, and Singapore, and has received numerous awards and accolades for his cuisine. Lee is known for his fusion cooking, which combines traditional Chinese flavors with Western ingredients and techniques."
+        "picture": "https://i.ibb.co/cXnzLDH/img2-0001-img6.jpg",
+        "bio": "Susur Lee is a Chinese-Canadian chef and restaurateur. He is the chef and owner of several restaurants in Toronto, New York, and Singapore, and has received numerous awards and accolades for his cuisine. Lee is known for his fusion cooking, which combines traditional Chinese flavors with Western ingredients and techniques.",
+        "racipe_list": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken breast, cut into small cubes",
+                    "1/2 cup peanuts",
+                    "3-4 dried red chilies",
+                    "3-4 cloves of garlic, minced",
+                    "1 inch ginger, grated",
+                    "1 tbsp cornstarch",
+                    "1 tbsp soy sauce",
+                    "1 tbsp rice vinegar",
+                    "1 tbsp hoisin sauce",
+                    "1 tbsp vegetable oil",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "In a bowl, mix together the cornstarch, soy sauce, rice vinegar, hoisin sauce, and a pinch of salt and pepper.",
+                    "Add the chicken to the bowl and stir to coat evenly.",
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic, ginger, and dried chilies, and stir-fry for about 30 seconds until fragrant.",
+                    "Add the chicken and stir-fry for 3-4 minutes, until the chicken is cooked through.",
+                    "Add the peanuts and stir-fry for another minute.",
+                    "Serve hot with steamed rice."
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Egg Fried Rice",
+                "ingredients": [
+                    "2 cups cooked rice, cooled",
+                    "2 eggs, beaten",
+                    "1/2 cup frozen peas and carrots, thawed",
+                    "1/2 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "2 tbsp vegetable oil",
+                    "2 tbsp soy sauce",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the onion and garlic, and stir-fry for about 30 seconds until fragrant.",
+                    "Add the beaten eggs and scramble until fully cooked.",
+                    "Add the thawed peas and carrots, and stir-fry for another minute.",
+                    "Add the cooked rice and soy sauce, and stir-fry until everything is evenly mixed and heated through.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot as a side dish or main course."
+                ],
+                "rating": 4
+            }
+        ]
     },
     {
         "id": 3,
@@ -23,8 +125,65 @@
         "years_of_experience": 15,
         "likes": 750,
         "racipe": 2,
-        "picture": "https://i.ibb.co/FbRZ9gF/ken71008-blk-2.webp",
-        "bio": "Ming Tsai is a Chinese-American restaurateur, television personality, and cookbook author. He is the chef and owner of Blue Dragon, a restaurant in Boston, and has appeared on several TV shows, including 'Simply Ming' and 'Iron Chef America'. Tsai is a graduate of Yale University and Le Cordon Bleu in Paris."
+        "picture": "https://i.ibb.co/khfhMmM/img2-0002-img5.jpg",
+        "bio": "Ming Tsai is a Chinese-American restaurateur, television personality, and cookbook author. He is the chef and owner of Blue Dragon, a restaurant in Boston, and has appeared on several TV shows, including 'Simply Ming' and 'Iron Chef America'. Tsai is a graduate of Yale University and Le Cordon Bleu in Paris.",
+        "racipe_list": [
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "1 block (14 oz) soft tofu, cut into small cubes",
+                    "1/4 lb ground pork",
+                    "2 cloves garlic, minced",
+                    "1 inch ginger, grated",
+                    "2 green onions, chopped",
+                    "1 tbsp Sichuan peppercorns, crushed",
+                    "1 tbsp chili bean paste",
+                    "1 tbsp soy sauce",
+                    "1 tsp sugar",
+                    "1 cup chicken or vegetable broth",
+                    "1 tbsp cornstarch, dissolved in 2 tbsp water",
+                    "1 tbsp vegetable oil"
+                ],
+                "cooking_method": [
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic, ginger, and Sichuan peppercorns, and stir-fry for about 30 seconds until fragrant.",
+                    "Add the ground pork and stir-fry until browned and fully cooked.",
+                    "Add the chili bean paste and soy sauce, and stir to combine.",
+                    "Add the tofu and gently stir to avoid breaking the cubes.",
+                    "Add the chicken or vegetable broth and sugar, and bring to a simmer.",
+                    "Slowly pour in the cornstarch mixture while stirring continuously, and cook until the sauce thickens.",
+                    "Garnish with chopped green onions and serve hot with steamed rice."
+                ],
+                "rating": 4.7
+            },
+            {
+                "name": "General Tso's Chicken",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken thighs, cut into small cubes",
+                    "1/2 cup cornstarch",
+                    "2 tbsp soy sauce",
+                    "2 tbsp rice vinegar",
+                    "2 tbsp hoisin sauce",
+                    "1 tbsp sugar",
+                    "3 cloves of garlic, minced",
+                    "1 inch ginger, grated",
+                    "3-4 dried red chilies",
+                    "2 green onions, chopped",
+                    "1/4 cup vegetable oil",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "In a bowl, mix together the cornstarch, soy sauce, rice vinegar, hoisin sauce, sugar, salt, and pepper.",
+                    "Add the chicken to the bowl and stir to coat evenly.",
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic, ginger, and dried chilies, and stir-fry for about 30 seconds until fragrant.",
+                    "Add the chicken and stir-fry for 3-4 minutes, until the chicken is cooked through and golden brown.",
+                    "Add the chopped green onions and stir-fry for another minute.",
+                    "Serve hot with steamed rice."
+                ],
+                "rating": 4.5
+            }
+        ]
     },
     {
         "id": 4,
@@ -32,8 +191,70 @@
         "years_of_experience": 8,
         "likes": 400,
         "racipe": 2,
-        "picture": "https://i.ibb.co/Y0Zq1Sb/8a929a-fb20e4463c194820bcf9c18d81926f5c-mv2-d-3848-4810-s-4-2.jpg",
-        "bio": "Ching He Huang is a Chinese-British chef, television presenter, and author. She is best known for her TV shows 'Chinese Food Made Easy' and 'Exploring China', and her cookbooks. Huang has a degree in economics and worked in the financial industry before pursuing a career in food. She is also a regular contributor to various publications and has won several awards for her cuisine."
+        "picture": "https://i.ibb.co/ZVdfqN8/img2-0003-img4.jpg",
+        "bio": "Ching He Huang is a Chinese-British chef, television presenter, and author. She is best known for her TV shows 'Chinese Food Made Easy' and 'Exploring China', and her cookbooks. Huang has a degree in economics and worked in the financial industry before pursuing a career in food. She is also a regular contributor to various publications and has won several awards for her cuisine.",
+        "racipe_list": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken breasts, cut into small cubes",
+                    "1/2 cup peanuts",
+                    "1 red bell pepper, diced",
+                    "1 green bell pepper, diced",
+                    "2 green onions, chopped",
+                    "3-4 dried red chilies",
+                    "2 cloves garlic, minced",
+                    "1 inch ginger, grated",
+                    "2 tbsp soy sauce",
+                    "1 tbsp hoisin sauce",
+                    "1 tbsp rice vinegar",
+                    "1 tsp sugar",
+                    "1/4 cup chicken or vegetable broth",
+                    "1 tbsp cornstarch, dissolved in 2 tbsp water",
+                    "2 tbsp vegetable oil",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "In a bowl, mix together the soy sauce, hoisin sauce, rice vinegar, sugar, salt, and pepper.",
+                    "Add the chicken to the bowl and stir to coat evenly.",
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic, ginger, and dried chilies, and stir-fry for about 30 seconds until fragrant.",
+                    "Add the chicken and stir-fry for 3-4 minutes, until the chicken is cooked through and golden brown.",
+                    "Add the peanuts, bell peppers, and green onions, and stir-fry for another 2-3 minutes.",
+                    "Add the chicken or vegetable broth and bring to a simmer.",
+                    "Slowly pour in the cornstarch mixture while stirring continuously, and cook until the sauce thickens.",
+                    "Serve hot with steamed rice."
+                ],
+                "rating": 4.6
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups chicken or vegetable broth",
+                    "1/2 lb firm tofu, cut into small cubes",
+                    "1/4 lb pork, thinly sliced",
+                    "1 egg, beaten",
+                    "1/4 cup bamboo shoots, thinly sliced",
+                    "1/4 cup wood ear mushrooms, rehydrated and thinly sliced",
+                    "1/4 cup rice vinegar",
+                    "1 tbsp soy sauce",
+                    "1 tbsp cornstarch, dissolved in 2 tbsp water",
+                    "1 tsp sesame oil",
+                    "1/2 tsp white pepper",
+                    "1/4 tsp black pepper",
+                    "2 green onions, chopped"
+                ],
+                "cooking_method": [
+                    "In a pot, bring the chicken or vegetable broth to a boil.",
+                    "Add the tofu, pork, bamboo shoots, and wood ear mushrooms, and bring to a simmer.",
+                    "Mix together the rice vinegar, soy sauce, cornstarch mixture, sesame oil, white pepper, and black pepper in a bowl.",
+                    "Slowly pour the mixture into the pot while stirring continuously, and cook until the soup thickens.",
+                    "Slowly pour in the beaten egg while stirring continuously, and cook for another minute.",
+                    "Garnish with chopped green onions and serve hot."
+                ],
+                "rating": 4.3
+            }
+        ]
     },
     {
         "id": 5,
@@ -41,8 +262,61 @@
         "years_of_experience": 12,
         "likes": 600,
         "racipe": 2,
-        "picture": "https://i.ibb.co/8gnYf9T/ming-tsai-1.jpg",
-        "bio": "Martin Yan is a Chinese-American chef, restaurateur, and television host. He is best known for his TV show 'Yan Can Cook' and his cookbooks. Yan has a degree in food science and technology, and has been awarded honorary doctorate degrees from several universities. He is also the founder of the Yan Can International Cooking School."
+        "picture": "https://i.ibb.co/zS07wXK/img2-0004-img3.jpg",
+        "bio": "Martin Yan is a Chinese-American chef, restaurateur, and television host. He is best known for his TV show 'Yan Can Cook' and his cookbooks. Yan has a degree in food science and technology, and has been awarded honorary doctorate degrees from several universities. He is also the founder of the Yan Can International Cooking School.",
+        "racipe_list": [
+            {
+                "name": "Shrimp Fried Rice",
+                "ingredients": [
+                    "2 cups cooked rice",
+                    "1/2 lb shrimp, peeled and deveined",
+                    "1 cup frozen peas and carrots, thawed",
+                    "2 cloves garlic, minced",
+                    "2 eggs, beaten",
+                    "2 green onions, chopped",
+                    "2 tbsp soy sauce",
+                    "1 tbsp vegetable oil",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic and stir-fry for about 30 seconds until fragrant.",
+                    "Add the shrimp and stir-fry for 2-3 minutes, until the shrimp are pink and cooked through.",
+                    "Push the shrimp to one side of the wok and add the beaten eggs to the other side.",
+                    "Scramble the eggs and mix with the shrimp.",
+                    "Add the cooked rice, peas and carrots, and soy sauce, and stir-fry for 3-4 minutes.",
+                    "Add salt and pepper to taste.",
+                    "Garnish with chopped green onions and serve hot."
+                ],
+                "rating": 4.2
+            },
+            {
+                "name": "Ma Po Tofu",
+                "ingredients": [
+                    "1 lb soft tofu, cut into small cubes",
+                    "1/4 lb ground pork",
+                    "2 green onions, chopped",
+                    "2 cloves garlic, minced",
+                    "1 inch ginger, grated",
+                    "2 tbsp chili bean sauce",
+                    "1 tbsp soy sauce",
+                    "1 tbsp vegetable oil",
+                    "1/4 cup chicken or vegetable broth",
+                    "1 tbsp cornstarch, dissolved in 2 tbsp water",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic, ginger, and ground pork, and stir-fry for 2-3 minutes, until the pork is cooked through and no longer pink.",
+                    "Add the chili bean sauce, soy sauce, and chicken or vegetable broth, and bring to a simmer.",
+                    "Add the tofu and stir gently to combine.",
+                    "Slowly pour in the cornstarch mixture while stirring continuously, and cook until the sauce thickens.",
+                    "Add salt and pepper to taste.",
+                    "Garnish with chopped green onions and serve hot with steamed rice."
+                ],
+                "rating": 4.4
+            }
+        ]
     },
     {
         "id": 6,
@@ -50,7 +324,61 @@
         "years_of_experience": 3,
         "likes": 100,
         "racipe": 2,
-        "picture": "https://i.ibb.co/cgKdsth/hf03-041819.jpg",
-        "bio": "Kian Lam Kho is a Chinese-American chef, cookbook author, and culinary educator. He is the founder of Red Cook, an online platform that explores traditional Chinese cooking and culture. Kho has published a cookbook titled 'Phoenix Claws and Jade Trees: Essential Techniques of Authentic Chinese Cooking', which has won several awards. He also teaches Chinese cooking classes in New York City."
+        "picture": "https://i.ibb.co/mGF84xJ/img2-0005-Background.jpg",
+        "bio": "Kian Lam Kho is a Chinese-American chef, cookbook author, and culinary educator. He is the founder of Red Cook, an online platform that explores traditional Chinese cooking and culture. Kho has published a cookbook titled 'Phoenix Claws and Jade Trees: Essential Techniques of Authentic Chinese Cooking', which has won several awards. He also teaches Chinese cooking classes in New York City.",
+        "racipe_list": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken breasts, cut into small pieces",
+                    "1/2 cup roasted peanuts",
+                    "2 tbsp soy sauce",
+                    "1 tbsp rice vinegar",
+                    "1 tbsp hoisin sauce",
+                    "1 tbsp cornstarch",
+                    "1 tbsp vegetable oil",
+                    "4-6 dried red chilies",
+                    "2 cloves garlic, minced",
+                    "1 inch ginger, grated",
+                    "2 green onions, sliced",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "In a small bowl, mix together the soy sauce, rice vinegar, hoisin sauce, cornstarch, and 2 tablespoons of water.",
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the dried red chilies, garlic, and ginger, and stir-fry for 1-2 minutes until fragrant.",
+                    "Add the chicken and stir-fry for 4-5 minutes, until browned on all sides.",
+                    "Add the soy sauce mixture and continue cooking for another 2-3 minutes, until the sauce thickens.",
+                    "Add the roasted peanuts and green onions, and stir-fry for another minute.",
+                    "Add salt and pepper to taste.",
+                    "Serve hot with steamed rice."
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Beef Chow Fun",
+                "ingredients": [
+                    "1 lb fresh rice noodles",
+                    "1/2 lb flank steak, sliced into thin strips",
+                    "2 cups bean sprouts",
+                    "2 cloves garlic, minced",
+                    "2 green onions, sliced",
+                    "2 tbsp soy sauce",
+                    "1 tbsp oyster sauce",
+                    "1 tbsp vegetable oil",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic and stir-fry for about 30 seconds until fragrant.",
+                    "Add the beef and stir-fry for 2-3 minutes, until browned on all sides.",
+                    "Add the rice noodles and stir-fry for another 2-3 minutes, until heated through.",
+                    "Add the soy sauce, oyster sauce, and bean sprouts, and stir-fry for another minute.",
+                    "Add salt and pepper to taste.",
+                    "Garnish with sliced green onions and serve hot."
+                ],
+                "rating": 4.3
+            }
+        ]
     }
 ]
