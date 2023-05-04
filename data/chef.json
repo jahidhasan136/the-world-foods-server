@@ -56,6 +56,34 @@
                     "Serve hot as a side dish or main course."
                 ],
                 "rating": 4
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "1 block (14 oz) soft tofu, cut into small cubes",
+                    "1/4 lb ground pork",
+                    "2 cloves garlic, minced",
+                    "1 inch ginger, grated",
+                    "2 green onions, chopped",
+                    "1 tbsp Sichuan peppercorns, crushed",
+                    "1 tbsp chili bean paste",
+                    "1 tbsp soy sauce",
+                    "1 tsp sugar",
+                    "1 cup chicken or vegetable broth",
+                    "1 tbsp cornstarch, dissolved in 2 tbsp water",
+                    "1 tbsp vegetable oil"
+                ],
+                "cooking_method": [
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic, ginger, and Sichuan peppercorns, and stir-fry for about 30 seconds until fragrant.",
+                    "Add the ground pork and stir-fry until browned and fully cooked.",
+                    "Add the chili bean paste and soy sauce, and stir to combine.",
+                    "Add the tofu and gently stir to avoid breaking the cubes.",
+                    "Add the chicken or vegetable broth and sugar, and bring to a simmer.",
+                    "Slowly pour in the cornstarch mixture while stirring continuously, and cook until the sauce thickens.",
+                    "Garnish with chopped green onions and serve hot with steamed rice."
+                ],
+                "rating": 4.7
             }
         ]
     },
@@ -116,6 +144,33 @@
                     "Serve hot as a side dish or main course."
                 ],
                 "rating": 4
+            },
+            {
+                "name": "General Tso's Chicken",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken thighs, cut into small cubes",
+                    "1/2 cup cornstarch",
+                    "2 tbsp soy sauce",
+                    "2 tbsp rice vinegar",
+                    "2 tbsp hoisin sauce",
+                    "1 tbsp sugar",
+                    "3 cloves of garlic, minced",
+                    "1 inch ginger, grated",
+                    "3-4 dried red chilies",
+                    "2 green onions, chopped",
+                    "1/4 cup vegetable oil",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "In a bowl, mix together the cornstarch, soy sauce, rice vinegar, hoisin sauce, sugar, salt, and pepper.",
+                    "Add the chicken to the bowl and stir to coat evenly.",
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic, ginger, and dried chilies, and stir-fry for about 30 seconds until fragrant.",
+                    "Add the chicken and stir-fry for 3-4 minutes, until the chicken is cooked through and golden brown.",
+                    "Add the chopped green onions and stir-fry for another minute.",
+                    "Serve hot with steamed rice."
+                ],
+                "rating": 4.5
             }
         ]
     },
@@ -182,6 +237,33 @@
                     "Serve hot with steamed rice."
                 ],
                 "rating": 4.5
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups chicken or vegetable broth",
+                    "1/2 lb firm tofu, cut into small cubes",
+                    "1/4 lb pork, thinly sliced",
+                    "1 egg, beaten",
+                    "1/4 cup bamboo shoots, thinly sliced",
+                    "1/4 cup wood ear mushrooms, rehydrated and thinly sliced",
+                    "1/4 cup rice vinegar",
+                    "1 tbsp soy sauce",
+                    "1 tbsp cornstarch, dissolved in 2 tbsp water",
+                    "1 tsp sesame oil",
+                    "1/2 tsp white pepper",
+                    "1/4 tsp black pepper",
+                    "2 green onions, chopped"
+                ],
+                "cooking_method": [
+                    "In a pot, bring the chicken or vegetable broth to a boil.",
+                    "Add the tofu, pork, bamboo shoots, and wood ear mushrooms, and bring to a simmer.",
+                    "Mix together the rice vinegar, soy sauce, cornstarch mixture, sesame oil, white pepper, and black pepper in a bowl.",
+                    "Slowly pour the mixture into the pot while stirring continuously, and cook until the soup thickens.",
+                    "Slowly pour in the beaten egg while stirring continuously, and cook for another minute.",
+                    "Garnish with chopped green onions and serve hot."
+                ],
+                "rating": 4.3
             }
         ]
     },
@@ -253,6 +335,31 @@
                     "Garnish with chopped green onions and serve hot."
                 ],
                 "rating": 4.3
+            },
+            {
+                "name": "Shrimp Fried Rice",
+                "ingredients": [
+                    "2 cups cooked rice",
+                    "1/2 lb shrimp, peeled and deveined",
+                    "1 cup frozen peas and carrots, thawed",
+                    "2 cloves garlic, minced",
+                    "2 eggs, beaten",
+                    "2 green onions, chopped",
+                    "2 tbsp soy sauce",
+                    "1 tbsp vegetable oil",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic and stir-fry for about 30 seconds until fragrant.",
+                    "Add the shrimp and stir-fry for 2-3 minutes, until the shrimp are pink and cooked through.",
+                    "Push the shrimp to one side of the wok and add the beaten eggs to the other side.",
+                    "Scramble the eggs and mix with the shrimp.",
+                    "Add the cooked rice, peas and carrots, and soy sauce, and stir-fry for 3-4 minutes.",
+                    "Add salt and pepper to taste.",
+                    "Garnish with chopped green onions and serve hot."
+                ],
+                "rating": 4.2
             }
         ]
     },
@@ -315,6 +422,30 @@
                     "Garnish with chopped green onions and serve hot with steamed rice."
                 ],
                 "rating": 4.4
+            },
+            {
+                "name": "Beef Chow Fun",
+                "ingredients": [
+                    "1 lb fresh rice noodles",
+                    "1/2 lb flank steak, sliced into thin strips",
+                    "2 cups bean sprouts",
+                    "2 cloves garlic, minced",
+                    "2 green onions, sliced",
+                    "2 tbsp soy sauce",
+                    "1 tbsp oyster sauce",
+                    "1 tbsp vegetable oil",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic and stir-fry for about 30 seconds until fragrant.",
+                    "Add the beef and stir-fry for 2-3 minutes, until browned on all sides.",
+                    "Add the rice noodles and stir-fry for another 2-3 minutes, until heated through.",
+                    "Add the soy sauce, oyster sauce, and bean sprouts, and stir-fry for another minute.",
+                    "Add salt and pepper to taste.",
+                    "Garnish with sliced green onions and serve hot."
+                ],
+                "rating": 4.3
             }
         ]
     },
@@ -378,6 +509,31 @@
                     "Garnish with sliced green onions and serve hot."
                 ],
                 "rating": 4.3
+            },
+            {
+                "name": "Shrimp Fried Rice",
+                "ingredients": [
+                    "2 cups cooked rice",
+                    "1/2 lb shrimp, peeled and deveined",
+                    "1 cup frozen peas and carrots, thawed",
+                    "2 cloves garlic, minced",
+                    "2 eggs, beaten",
+                    "2 green onions, chopped",
+                    "2 tbsp soy sauce",
+                    "1 tbsp vegetable oil",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": [
+                    "Heat the vegetable oil in a wok or large skillet over high heat.",
+                    "Add the garlic and stir-fry for about 30 seconds until fragrant.",
+                    "Add the shrimp and stir-fry for 2-3 minutes, until the shrimp are pink and cooked through.",
+                    "Push the shrimp to one side of the wok and add the beaten eggs to the other side.",
+                    "Scramble the eggs and mix with the shrimp.",
+                    "Add the cooked rice, peas and carrots, and soy sauce, and stir-fry for 3-4 minutes.",
+                    "Add salt and pepper to taste.",
+                    "Garnish with chopped green onions and serve hot."
+                ],
+                "rating": 4.2
             }
         ]
     }
